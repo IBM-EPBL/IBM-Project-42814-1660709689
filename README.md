@@ -39,7 +39,7 @@ The user will login into the website and go through the products available on th
 
 - [ ] Literature Survey
 - [ ] Problem Statement
-- [ ] Empathy Map
+- [x] Empathy Map
 - [ ] Ideation
 
 # PROJECT DESIGN PHASE 
