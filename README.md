@@ -16,3 +16,41 @@ The role of the admin is to check out the database about the stock and have a tr
 
 User :
 The user will login into the website and go through the products available on the website.  Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products.  Get the recommendations based on information provided by the user.
+
+## PROJECT STATUS - DEVELOPMENT STAGE
+
+ <hr>
+
+##  TEAM MEMBERS
+- MUHAMMED SHIBIL C V
+- JAVID BASHA J
+- MOHAMED AKIL H
+- YASAR ARAFARTH S
+<hr>
+
+ 
+##  ASSIGNMENT FINISHED
+- [x] ASSIGNMENT 1
+- [x] ASSIGNMENT 2
+- [ ] ASSIGNMENT 3 
+<hr>
+
+#  IDEATION PHASE
+
+- [ ] Literature Survey
+- [ ] Problem Statement
+- [ ] Empathy Map
+- [ ] Ideation
+
+# PROJECT DESIGN PHASE 
+
+# PROJECT DESIGN PHASE 01 
+- [ ] Proposed Solution
+- [ ] Problem-Solution Fit
+- [ ] Solution Architecture
+
+# PROJECT DESIGN PHASE 02 
+- [ ] Solution Requirements
+- [ ] Customer Journey
+- [ ] Functional Requirements
+- [ ] Tecnology Architecture
