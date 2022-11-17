@@ -23,34 +23,35 @@ The user will login into the website and go through the products available on th
 
 ##  TEAM MEMBERS
 - MUHAMMED SHIBIL C V (TL)
-- JAVID BASHA J
-- MOHAMED AKIL H
-- YASAR ARAFARTH S
+- JAVID BASHA J (M1)
+- MOHAMED AKIL H (M2)
+- YASAR ARAFARTH S (M3)
 <hr>
 
  
 ##  ASSIGNMENT FINISHED
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
-- [ ] ASSIGNMENT 3 
+- [x] ASSIGNMENT 3 
+- [X] ASSIGNMENT 4
 <hr>
 
 #  IDEATION PHASE
 
-- [ ] Literature Survey
-- [ ] Problem Statement
+- [X] Literature Survey
+- [X] Problem Statement
 - [x] Empathy Map
-- [ ] Ideation
+- [X] Ideation
 
 # PROJECT DESIGN PHASE 
 
 # PROJECT DESIGN PHASE 01 
-- [ ] Proposed Solution
-- [ ] Problem-Solution Fit
-- [ ] Solution Architecture
+- [X] Proposed Solution
+- [X] Problem-Solution Fit
+- [X] Solution Architecture
 
 # PROJECT DESIGN PHASE 02 
-- [ ] Solution Requirements
-- [ ] Customer Journey
-- [ ] Functional Requirements
-- [ ] Tecnology Architecture
+- [X] Solution Requirements
+- [X] Customer Journey
+- [X] Functional Requirements
+- [X] Tecnology Architecture
