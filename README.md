@@ -20,6 +20,14 @@ The user will login into the website and go through the products available on th
 ## PROJECT STATUS - DEVELOPMENT STAGE
 
  <hr>
+ 
+ 
+## BATCH NUMBER: B7-1A3E
+TEAM ID: PNT2022TMID37413
+<hr>
+
+<hr>
+
 
 ##  TEAM MEMBERS
 - MUHAMMED SHIBIL C V (TL)
